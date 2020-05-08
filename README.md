@@ -12,7 +12,7 @@
 <li>1x 4,7uF cap (<em>optional for RC LPF</em>) </li>
 <li>1x 3,5mm TRS audio connector (<em>optional for the expression pedal</em>) </li>
 <li>1x Arduino (I had UNO, but could be smaller models too) </li>
-<li>Wires, soldering tools and enclosure (I used one of the kitchen boxes). </li>
+<li>Wires, soldering tools, enclosure (I used one of the kitchen boxes). </li>
 </ul>
 <br />
 
