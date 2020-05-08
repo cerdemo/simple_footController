@@ -1,4 +1,4 @@
-# A very simple foot controller <br />
+# A very simple OSC/MIDI foot controller <br />
 <br />
 <strong>Parts:</strong> <br />
 <ul>
