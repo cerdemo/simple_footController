@@ -13,4 +13,4 @@ Parts: <br />
 1x 3,5mm TRS audio coonector ((<em>optional for the expression pedal</em>)) <br />
 1x Arduino (I had UNO, but could be smaller models too) <br />
 <br />
-![](images/fs_1.jpg)
+![](/fs_1.jpg)
