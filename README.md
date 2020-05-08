@@ -1,6 +1,7 @@
 # simple_footController <br />
 <br />
 Parts: <br />
+<br />
 4x SPDT foot switch <br />
 1x SPST foot switch <br />
 5x LED <br />
@@ -12,3 +13,5 @@ Parts: <br />
 1x 3,5mm TRS audio coonector ((<em>optional for the expression pedal</em>)) <br />
 1x Arduino (I had UNO, but could be smaller models too) <br />
 <br />
+![GitHub Logo](/fs_1.jpg)
+Format: ![Alt Text](url)
