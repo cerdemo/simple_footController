@@ -1,6 +1,6 @@
 # simple_footController <br />
 <br />
-strong>Parts:</strong> <br />
+<strong>Parts:</strong> <br />
 4x SPDT foot switch <br />
 1x SPST foot switch <br />
 5x LED <br />
