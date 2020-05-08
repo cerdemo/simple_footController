@@ -1,4 +1,4 @@
-# simple_footController <br />
+# A very simple foot controller <br />
 <br />
 <strong>Parts:</strong> <br />
 <ul>
