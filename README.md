@@ -2,8 +2,8 @@
 <br />
 <strong>Parts:</strong> <br />
 <ul>
-<li>4x SPDT foot switch </li>
-<li>1x SPST foot switch </li>
+<li>4x SPDT foot switch (<em>illustrated as slide switches below</em>) </li>
+<li>1x SPST foot switch (<em>illustrated as a pushbutton below</em>) </li>
 <li>5x LED </li>
 <li>5x 220<span>&#8486;</span> resistor </li>
 <li>5x 10k<span>&#8486;</span> resistor </li>
