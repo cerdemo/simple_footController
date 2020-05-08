@@ -14,4 +14,4 @@ Parts: <br />
 1x Arduino (I had UNO, but could be smaller models too) <br />
 <br />
 
-![](images/fs_1.png) 
+
